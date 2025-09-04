@@ -1,0 +1,2 @@
+Sample taste-test data for pao-de-queijo-bites
+Panel score: 4.5 / 5
