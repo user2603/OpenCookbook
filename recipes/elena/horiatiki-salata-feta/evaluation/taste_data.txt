@@ -1,0 +1,2 @@
+Sample taste-test data for horiatiki-salata-feta
+Panel score: 4.5 / 5
