@@ -1,0 +1,2 @@
+Sample taste-test data for agedashi-tofu-crispy
+Panel score: 4.5 / 5
